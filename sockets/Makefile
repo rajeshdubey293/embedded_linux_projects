@@ -21,7 +21,7 @@ CFLAGS = -std=c99 \
 
 RM      = rm -f
 
-BIN = i2c_rw
+BIN = client
 
 all:  $(BIN)
 
